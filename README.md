@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edujr1503&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?edujr1503=vn7n24fzkq&theme=default)
+[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?edujr1503=vn7n24fzkq&theme=default)
 
 ## 
 
