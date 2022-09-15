@@ -11,7 +11,6 @@
 
 ## 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Swift" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
