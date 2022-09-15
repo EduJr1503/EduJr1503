@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edujr1503&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
-[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?edujr1503=vn7n24fzkq&theme=default)
-
 ## 
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Swift" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
